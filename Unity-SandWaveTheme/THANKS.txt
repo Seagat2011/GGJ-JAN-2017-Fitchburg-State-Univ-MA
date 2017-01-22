@@ -1,0 +1,19 @@
+SPECIAL THANKS:
+
+Gregg W.
+
+1. Special-purpose Mouse Capture Algorithm :)
+
+2. Save Game's HighScore across Scene() events
+
+
+
+Connor  B.
+
+1. For a ( Scalable ) SandWave Spawn Algorithm
+
+
+
+Sean Mayle
+
+1. For the music. (soundcloud.com/sean-mayle)

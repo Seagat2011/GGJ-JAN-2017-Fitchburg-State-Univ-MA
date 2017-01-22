@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\ShotController.cs">
+    <Files>
+      <File FileName="Assets\scripts\PlayerController.cs" Line="270" Column="16" />
+      <File FileName="Assets\scripts\EnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\WaveController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GameManager.cs" Line="38" Column="19" />
+      <File FileName="Assets\scripts\ShotController.cs" Line="43" Column="4" />
+      <File FileName="Assets\scripts\HurtPlayer.cs" Line="27" Column="3" />
+      <File FileName="Assets\scripts\HP.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EndController.cs" Line="17" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

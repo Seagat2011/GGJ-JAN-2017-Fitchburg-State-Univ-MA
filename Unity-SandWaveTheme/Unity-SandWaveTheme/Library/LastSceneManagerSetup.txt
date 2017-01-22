@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Menu/Lose Screen.unity
-  isLoaded: 1
-  isActive: 1
