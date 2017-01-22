@@ -45,7 +45,7 @@ public class Spawner : MonoBehaviour {
 
 	IEnumerator shoot(){
 
-		Instantiate(WavePrefab, gameObject.transform.position, Quaternion.identity);
+		Instantiate(WavePrefab, gameObject.transform.position, WavePrefab.transform.rotation);
 		yield return new WaitForSeconds (DelaySeconds);
 		yield return null;
 

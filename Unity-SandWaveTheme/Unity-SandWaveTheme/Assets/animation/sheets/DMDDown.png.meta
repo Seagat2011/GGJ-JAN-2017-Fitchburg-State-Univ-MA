@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 7de27eccb0d803a45b466be763b7e132
+timeCreated: 1485038996
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DMDDown_0
+    21300002: DMDDown_2
+    21300004: DMDDown_3
+    21300006: DMDDown_4
+    21300008: DMDDown_5
+    21300010: DMDDown_6
+    21300012: DMDDown_7
+    21300014: DMDDown_8
+    21300016: DMDDown_9
+    21300018: DMDDown_10
+    21300020: DMDDown_11
+    21300022: DMDDown_12
+    21300024: DMDDown_13
+    21300026: DMDDown_14
+    21300028: DMDDown_15
+    21300030: DMDDown_16
+    21300032: DMDDown_17
+    21300034: DMDDown_18
+    21300036: DMDDown_19
+    21300038: DMDDown_20
+    21300040: DMDDown_21
+    21300042: DMDDown_22
+    21300044: DMDDown_23
+    21300046: DMDDown_24
+    21300048: DMDDown_25
+    21300050: DMDDown_26
+    21300052: DMDDown_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DMDDown_0
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1315
+        width: 210
+        height: 263
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_2
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1337
+        width: 179
+        height: 231
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1329
+        width: 211
+        height: 230
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1320
+        width: 213
+        height: 243
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_5
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1321
+        width: 213
+        height: 242
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_6
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1329
+        width: 211
+        height: 228
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_7
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1337
+        width: 213
+        height: 217
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1058
+        width: 211
+        height: 227
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1054
+        width: 178
+        height: 244
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_14
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1049
+        width: 224
+        height: 236
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_15
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1259
+        width: 4
+        height: 10
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_16
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1054
+        width: 179
+        height: 244
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_17
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1060
+        width: 211
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_18
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1058
+        width: 213
+        height: 227
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_19
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1059
+        width: 217
+        height: 226
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_22
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1235
+        width: 7
+        height: 10
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_23
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1230
+        width: 5
+        height: 7
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 792
+        width: 231
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 792
+        width: 217
+        height: 223
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDDown_27
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 792
+        width: 210
+        height: 225
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

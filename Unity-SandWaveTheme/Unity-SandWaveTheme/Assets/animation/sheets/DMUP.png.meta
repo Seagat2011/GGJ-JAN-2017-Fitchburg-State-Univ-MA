@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 498e1d3dbc8e81240a50b6ed8fb9e970
+timeCreated: 1485035548
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DMUP_0
+    21300002: DMUP_1
+    21300004: DMUP_2
+    21300006: DMUP_3
+    21300008: DMUP_4
+    21300010: DMUP_5
+    21300012: DMUP_6
+    21300014: DMUP_7
+    21300016: DMUP_8
+    21300018: DMUP_9
+    21300020: DMUP_10
+    21300022: DMUP_11
+    21300024: DMUP_12
+    21300026: DMUP_13
+    21300028: DMUP_14
+    21300030: DMUP_15
+    21300032: DMUP_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DMUP_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1324
+        width: 157
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1315
+        width: 156
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1321
+        width: 151
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1321
+        width: 157
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_4
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1324
+        width: 155
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_5
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1325
+        width: 156
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_6
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1325
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1055
+        width: 154
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1055
+        width: 154
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1055
+        width: 155
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_10
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1054
+        width: 160
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_11
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1038
+        width: 190
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_12
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1054
+        width: 156
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_13
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1038
+        width: 190
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 767
+        width: 149
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 769
+        width: 190
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMUP_16
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 786
+        width: 155
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

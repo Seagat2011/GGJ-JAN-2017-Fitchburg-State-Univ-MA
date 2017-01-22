@@ -13,9 +13,12 @@ public class EnemyController : MonoBehaviour {
 	public Transform target;
 
 	private Rigidbody2D rbEnemy;
+	private Animator anim;
+	private SpriteRenderer sprite;
 
 	void Start(){
-		
+		sprite = GetComponent<SpriteRenderer> ();
+		anim = GetComponent<Animator> ();
 		rbEnemy = GetComponent<Rigidbody2D> ();
 		target = GameObject.FindGameObjectWithTag("Player").transform;
 
@@ -70,6 +73,64 @@ public class EnemyController : MonoBehaviour {
 	void FixedUpdate() {
 			
 		MoveEnemy ();
+
+		if (moveVertical == 1 && moveHorizontal == 0) {
+			anim.SetBool ("isDiag", false);
+			anim.SetBool ("isSide", false);
+			anim.SetBool ("isForward", true);
+			sprite.flipX = false;
+			sprite.flipY = false;
+		} 
+		if (moveVertical == -1 && moveHorizontal == 0) {
+			anim.SetBool ("isDiag", false);
+			anim.SetBool ("isSide", false);
+			anim.SetBool ("isForward", true);
+			sprite.flipX = false;
+			sprite.flipY = true;
+		} 
+		if (moveHorizontal == 1 && moveVertical == 0) {
+			anim.SetBool ("isDiag", false);
+			anim.SetBool ("isSide", true);
+			anim.SetBool ("isForward", false);
+			sprite.flipX = false;
+			sprite.flipY = false;
+		} 
+		if (moveVertical == -1 && moveVertical == 0) {
+			anim.SetBool ("isDiag", false);
+			anim.SetBool ("isSide", true);
+			anim.SetBool ("isForward", false);
+			sprite.flipX = true;
+			sprite.flipY = false;
+		} 
+		if (moveVertical == 1 && moveHorizontal == 1) {
+			anim.SetBool ("isDiag", true);
+			anim.SetBool ("isSide", false);
+			anim.SetBool ("isForward", false);
+			sprite.flipY = false;
+			sprite.flipX = false;
+		} 
+		if (moveVertical == -1 && moveHorizontal == 1) {
+			anim.SetBool ("isDiag", true);
+			anim.SetBool ("isSide", false);
+			anim.SetBool ("isForward", false);
+			sprite.flipY = true;
+			sprite.flipX = false;
+		} 
+		if (moveVertical == 1 && moveHorizontal == -1) {
+			anim.SetBool ("isDiag", true);
+			anim.SetBool ("isSide", false);
+			anim.SetBool ("isForward", false);
+			sprite.flipX = true;
+			sprite.flipY = false;
+		} 
+		if (moveVertical == -1 && moveHorizontal == -1) {
+			anim.SetBool ("isDiag", true);
+			anim.SetBool ("isSide", false);
+			anim.SetBool ("isForward", false);
+			sprite.flipX = true;
+			sprite.flipY = true;
+		} 
+
 
 	}
 

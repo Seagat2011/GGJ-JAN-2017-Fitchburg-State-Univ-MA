@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 57e3e5dcf0614a742a2dc9ed49c8f51c
+timeCreated: 1485035803
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DMSIDE_0
+    21300002: DMSIDE_1
+    21300004: DMSIDE_2
+    21300006: DMSIDE_3
+    21300008: DMSIDE_4
+    21300010: DMSIDE_5
+    21300012: DMSIDE_6
+    21300014: DMSIDE_7
+    21300016: DMSIDE_8
+    21300018: DMSIDE_9
+    21300020: DMSIDE_10
+    21300022: DMSIDE_11
+    21300024: DMSIDE_12
+    21300026: DMSIDE_13
+    21300028: DMSIDE_14
+    21300030: DMSIDE_15
+    21300032: DMSIDE_16
+    21300034: DMSIDE_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DMSIDE_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1356
+        width: 241
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1372
+        width: 240
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_2
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1354
+        width: 239
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_3
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1370
+        width: 242
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_4
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1356
+        width: 241
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_5
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1372
+        width: 242
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_6
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1356
+        width: 239
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1103
+        width: 244
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1103
+        width: 243
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_9
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1103
+        width: 246
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1103
+        width: 246
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_11
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1103
+        width: 245
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_12
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1086
+        width: 242
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_13
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1088
+        width: 245
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 820
+        width: 240
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1026
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 820
+        width: 241
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMSIDE_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 817
+        width: 239
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

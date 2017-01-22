@@ -45,9 +45,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Menu\Menu.cs" />
+     <Compile Include="Assets\Menu\menuScript.cs" />
      <Compile Include="Assets\scripts\BoardManager.cs" />
      <Compile Include="Assets\scripts\EnemyController.cs" />
      <Compile Include="Assets\scripts\GameManager.cs" />
+     <Compile Include="Assets\scripts\HP.cs" />
+     <Compile Include="Assets\scripts\HurtPlayer.cs" />
      <Compile Include="Assets\scripts\PlayerController.cs" />
      <Compile Include="Assets\scripts\ShotController.cs" />
      <Compile Include="Assets\scripts\Spawner.cs" />

@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: 00b929a5246a3fe4ba438cbf34dd4bc0
+timeCreated: 1485040231
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DMDUP_2
+    21300002: DMDUP_4
+    21300004: DMDUP_1
+    21300006: DMDUP_0
+    21300008: DMDUP_11
+    21300010: DMDUP_13
+    21300012: DMDUP_14
+    21300014: DMDUP_15
+    21300016: DMDUP_16
+    21300018: DMDUP_17
+    21300020: DMDUP_18
+    21300022: DMDUP_19
+    21300024: DMDUP_20
+    21300026: DMDUP_21
+    21300028: DMDUP_22
+    21300030: DMDUP_23
+    21300032: DMDUP_24
+    21300034: DMDUP_25
+    21300036: DMDUP_3
+    21300038: DMDUP_5
+    21300040: DMDUP_6
+    21300042: DMDUP_7
+    21300044: DMDUP_8
+    21300046: DMDUP_9
+    21300048: DMDUP_10
+    21300050: DMDUP_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DMDUP_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1300
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1300
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1300
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1300
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1300
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_6
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1300
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1000
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1000
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1000
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1000
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_12
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1000
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_13
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1000
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 700
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DMDUP_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 700
+        width: 250
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -30,7 +30,7 @@ public class WaveController : MonoBehaviour {
 	}
 
 	IEnumerator WaveLifeSpan() {
-		yield return new WaitForSeconds (10f);
+		yield return new WaitForSeconds (35f);
 		Destroy (this.gameObject);
 		yield return null;
 	}
